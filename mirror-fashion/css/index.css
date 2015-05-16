@@ -1,0 +1,24 @@
+header{
+  border:1px solid #f0f;
+  width:940px;
+  margin:0 auto;
+}
+.sacola{
+  width:140px;
+  padding-right:35px;
+  text-align:right;
+  background:url("../img/sacola.png") no-repeat top right;
+  
+}
+
+.menu-opcoes ul{
+font-size:15px;
+}
+.menu-opcoes a {
+color #003366
+}
+body{color:#333;font-family:"lucida Sans Unicode",sans-serif;}
+ ul li {display:inline;}
+.menu-opcoes ul li {display:inline;
+margin-left:20px;
+padding-top:8px;}
