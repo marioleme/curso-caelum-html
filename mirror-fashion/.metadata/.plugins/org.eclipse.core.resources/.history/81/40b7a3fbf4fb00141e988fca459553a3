@@ -1,0 +1,7 @@
+/**
+ * 
+ */
+
+Window.onload=function(){
+	alert ( "Olá, Mundo!" );
+}

@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+
+window.onload = function() {
+ alert( "A página foi carregada" );
+}
+

@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+
+function alo() {
+ alert('Olá Mundo!');
+ 
+ }
+ window.onload = function() {window.onload = function() {
+ alo();
+ 
+ }
+ 
