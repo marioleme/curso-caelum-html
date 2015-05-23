@@ -33,6 +33,7 @@ var bannerAtual = 0;
  	if(controle.className =='pause')
  	{ 
  		clearInterval(timer);
+ 		controle.className = 'play'
 
  	}else{
  		timer = setInterval(trocaBanner, 4000);
