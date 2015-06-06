@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_gsE1kPv_EeS1E9h29VZ-Ng" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_gsE1kfv_EeS1E9h29VZ-Ng" bindingContexts="_gsIgsfv_EeS1E9h29VZ-Ng">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;hello.js&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/js/hello.js&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/js/hello.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;hello.js&quot; tooltip=&quot;RemoteSystemsTempFiles/hello.js&quot;>&#xA;&lt;persistable path=&quot;/RemoteSystemsTempFiles/hello.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;sobrer.html&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/sobrer.html&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/sobrer.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;sobre.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/sobre.css&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/sobre.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;index.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/index.css&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/index.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;NewFile.css&quot; tooltip=&quot;RemoteSystemsTempFiles/NewFile.css&quot;>&#xA;&lt;persistable path=&quot;/RemoteSystemsTempFiles/NewFile.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/index.html&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/index.html&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;NewFile.html&quot; tooltip=&quot;RemoteSystemsTempFiles/NewFile.html&quot;>&#xA;&lt;persistable path=&quot;/RemoteSystemsTempFiles/NewFile.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;produto.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/produto.css&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/produto.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;mobile.css&quot; tooltip=&quot;RemoteSystemsTempFiles/mobile.css&quot;>&#xA;&lt;persistable path=&quot;/RemoteSystemsTempFiles/mobile.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;mobile.css &quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/mobile.css &quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/mobile.css%20&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;hello.js&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/js/hello.js&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/js/hello.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;hello.js&quot; tooltip=&quot;RemoteSystemsTempFiles/hello.js&quot;>&#xA;&lt;persistable path=&quot;/RemoteSystemsTempFiles/hello.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;sobrer.html&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/sobrer.html&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/sobrer.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;sobre.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/sobre.css&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/sobre.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;index.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/index.css&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/index.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;NewFile.css&quot; tooltip=&quot;RemoteSystemsTempFiles/NewFile.css&quot;>&#xA;&lt;persistable path=&quot;/RemoteSystemsTempFiles/NewFile.css&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/index.html&quot;>&#xA;&lt;persistable uri=&quot;file:/home/web5084/Desktop/mirror-fashion/index.html&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_gsE1kfv_EeS1E9h29VZ-Ng" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_gsFcoPv_EeS1E9h29VZ-Ng" label="%trimmedwindow.label.eclipseSDK" x="71" y="58" width="652" height="720">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_gsE1kfv_EeS1E9h29VZ-Ng" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_gsFcoPv_EeS1E9h29VZ-Ng" label="%trimmedwindow.label.eclipseSDK" x="274" y="63" width="801" height="681">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_gsFcoPv_EeS1E9h29VZ-Ng" selectedElement="_gsFcofv_EeS1E9h29VZ-Ng" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_gsFcofv_EeS1E9h29VZ-Ng" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_gsFcovv_EeS1E9h29VZ-Ng">
         <children xsi:type="advanced:Perspective" xmi:id="_gsFcovv_EeS1E9h29VZ-Ng" elementId="org.eclipse.jst.j2ee.J2EEPerspective" selectedElement="_gsFco_v_EeS1E9h29VZ-Ng" label="Java EE" iconURI="platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif">
@@ -132,100 +133,26 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_gsGENPv_EeS1E9h29VZ-Ng" elementId="org.eclipse.ui.editorss" selectedElement="_gsGENfv_EeS1E9h29VZ-Ng">
-      <children xsi:type="basic:PartStack" xmi:id="_gsGENfv_EeS1E9h29VZ-Ng" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_gsGqz_v_EeS1E9h29VZ-Ng">
+      <children xsi:type="basic:PartStack" xmi:id="_gsGENfv_EeS1E9h29VZ-Ng" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_pxvu8Ax5EeWUfvWm2w5dTA">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
         <tags>noFocus</tags>
-        <children xsi:type="basic:Part" xmi:id="_gsGENvv_EeS1E9h29VZ-Ng" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;index.html&quot; partName=&quot;index.html&quot; title=&quot;index.html&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/index.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/home/web5084/Desktop/mirror-fashion/index.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2357&quot; selectionTopPixel=&quot;3844&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGEN_v_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.html.core.htmlsource.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGEOPv_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.html.core.htmlsource.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGEOfv_EeS1E9h29VZ-Ng" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGEOvv_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.html.core.htmlsource.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGqzfv_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.html.core.htmlsource.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-        </children>
         <children xsi:type="advanced:Placeholder" xmi:id="_gsGqzvv_EeS1E9h29VZ-Ng" elementId="Drag Placerholder" toBeRendered="false"/>
-        <children xsi:type="basic:Part" xmi:id="_gsGqz_v_EeS1E9h29VZ-Ng" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.css" iconURI="platform:/plugin/org.eclipse.wst.css.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;index.css&quot; partName=&quot;index.css&quot; title=&quot;index.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/index.css&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/index.css&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;80&quot; selectionOffset=&quot;3858&quot; selectionTopPixel=&quot;4148&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_eLWAsAbgEeWA8oWO5wzgkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="produto.css" iconURI="platform:/plugin/org.eclipse.wst.css.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;produto.css&quot; partName=&quot;produto.css&quot; title=&quot;produto.css&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/css/produto.css&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/home/web5084/Desktop/mirror-fashion/css/produto.css&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1169&quot; selectionTopPixel=&quot;1105&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.wst.css.core.csssource.source</tags>
           <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_pxvu8Ax5EeWUfvWm2w5dTA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="NewFile.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;NewFile.html&quot; partName=&quot;NewFile.html&quot; title=&quot;NewFile.html&quot; tooltip=&quot;RemoteSystemsTempFiles/NewFile.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/RemoteSystemsTempFiles/NewFile.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;4065&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;1175&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+          <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq0Pv_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.css.core.csssource.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.css.core.csssource.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq0fv_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.css.core.csssource.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.css.core.csssource.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq0vv_EeS1E9h29VZ-Ng" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq0_v_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.css.core.csssource.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.css.core.csssource.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.css.core.csssource.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq1Pv_EeS1E9h29VZ-Ng" elementId="org.eclipse.wst.css.core.csssource.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.wst.css.core.csssource.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.css.core.csssource.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_gsGq1fv_EeS1E9h29VZ-Ng" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="hello.js" iconURI="platform:/plugin/org.eclipse.wst.jsdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;hello.js&quot; partName=&quot;hello.js&quot; title=&quot;hello.js&quot; tooltip=&quot;/home/web5084/Desktop/mirror-fashion/js/hello.js&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/home/web5084/Desktop/mirror-fashion/js/hello.js&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;851&quot; selectionTopPixel=&quot;274&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.jsdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq1vv_EeS1E9h29VZ-Ng" elementId="#JavaScriptEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#JavaScriptEditorContext</tags>
-            <tags>popup:org.eclipse.wst.jsdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq1_v_EeS1E9h29VZ-Ng" elementId="#JavaScriptRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#JavaScriptRulerContext</tags>
-            <tags>popup:org.eclipse.wst.jsdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_gsGq2Pv_EeS1E9h29VZ-Ng" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
         </children>
       </children>
     </sharedElements>
@@ -342,7 +269,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gsGrFPv_EeS1E9h29VZ-Ng" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eKxC4AFDEeWGBOcyEdg-4w" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_gsK_rvv_EeS1E9h29VZ-Ng"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iMdYkAx5EeWUfvWm2w5dTA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_gsK_rvv_EeS1E9h29VZ-Ng"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gsGrIfv_EeS1E9h29VZ-Ng" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -375,7 +302,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gsHR2_v_EeS1E9h29VZ-Ng" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eK3JgAFDEeWGBOcyEdg-4w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_gsK_Vvv_EeS1E9h29VZ-Ng"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iMktUAx5EeWUfvWm2w5dTA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_gsK_Vvv_EeS1E9h29VZ-Ng"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gsHR6Pv_EeS1E9h29VZ-Ng" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

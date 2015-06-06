@@ -26,7 +26,7 @@
         <form action= "checkout.php" method="POST">
         <input type= "hidden" name= "nome" value= "Fuzzy Cardigan" >
         
-        <input type= "hidden" name= "id" value= "<?= $produto['id'] ?>">
+        <input type= "hidden" name= "id" value= "<?= $produto['preco'] ?>">
         <fieldset class="cores">
          <legend>Escolha a cor:</legend>
          <input type= "radio" name="cor" value="verde" id="verde" checked >
